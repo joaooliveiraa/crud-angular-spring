@@ -11,5 +11,5 @@ public class CrudSpringApplication {
 		System.out.print("Inicou");
 		
 	}
-
+	
 }
